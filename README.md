@@ -26,8 +26,8 @@ The Histogram of gray scale image and color image is shown.
 
 
 ## Program:
-## Developed By: SHRAVANI M
-## Register Number: 212224230263
+## Developed By: SHARAN KUMAR G
+## Register Number: 212224230260
 ```python
 
 import cv2
@@ -77,18 +77,22 @@ plt.show()
 
 ### Input Grayscale Image and Color Image
 
-<img width="365" height="415" alt="image" src="https://github.com/user-attachments/assets/4018265c-3649-49f9-bb87-a3f84ca53409" />
+<img width="338" height="548" alt="image" src="https://github.com/user-attachments/assets/a36e5828-5cd9-41b2-af05-b6e02294c9a8" />
+<img width="342" height="540" alt="image" src="https://github.com/user-attachments/assets/2a886281-11e0-43ed-be1d-37fe511b7c4b" />
 
-<img width="350" height="413" alt="image" src="https://github.com/user-attachments/assets/e6d847ce-3e36-442b-aafd-556fa68b9cae" />
+
 
 ### Histogram of Grayscale Image and any channel of Color Image
 
-<img width="634" height="447" alt="image" src="https://github.com/user-attachments/assets/cf1f6595-1f33-456e-92a5-1c0cc73bbe3a" />
+<img width="728" height="547" alt="image" src="https://github.com/user-attachments/assets/2c661240-90ea-4dcd-9b87-b9d20623fc76" />
+<img width="726" height="547" alt="image" src="https://github.com/user-attachments/assets/51b61705-4a48-457c-8743-e1d409d24786" />
+
 
 
 ### Histogram Equalization of Grayscale Image.
 
-<img width="664" height="440" alt="image" src="https://github.com/user-attachments/assets/57a30f33-90fb-491c-b1b5-70d59afdb77c" />
+<img width="1347" height="406" alt="image" src="https://github.com/user-attachments/assets/58371cd6-0a57-42c6-a289-0ef5974b6989" />
+
 
 
 ## Result: 
